@@ -1,4 +1,3 @@
-```markdown
 # Hướng dẫn Cài đặt Môi trường Ảo và API Keys
 
 ## 1. Tạo Virtual Environment (venv)
