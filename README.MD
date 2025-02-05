@@ -48,14 +48,6 @@ Thêm API keys vào file `activate` trong môi trường ảo:
 
 **Free Tier**: Free
 
-### 🔑 SERP API Key
-1. Đăng ký tài khoản tại [serpapi.com](https://serpapi.com/)
-2. Đăng nhập và vào [Dashboard](https://serpapi.com/dashboard)
-3. Copy "Your Secret Key" từ trang profile
-4. Dán vào file activate
-
-**Free Tier**: 100 lượt search/tháng
-
 ## 4. Cài đặt Thư viện
 
 Cài đặt các dependencies từ file requirements.txt:
