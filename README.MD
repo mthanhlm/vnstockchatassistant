@@ -29,7 +29,6 @@ Thêm API keys vào file `activate` trong môi trường ảo:
 2. Thêm 2 dòng này vào **cuối file**:
    ```bash
    export GOOGLE_API_KEY="your_google_api_key_here"
-   export SERP_API_KEY="your_serp_api_key_here"
    ```
 
 3. Lưu file và chạy:
