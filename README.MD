@@ -1,4 +1,4 @@
-# Hướng dẫn Cài đặt Môi trường Ảo và API Keys
+# Simple Vietnam Stock Multi-agent System
 
 ## 1. Tạo Virtual Environment (venv)
 
@@ -63,4 +63,7 @@ chmod +x run.sh
 - API keys sẽ tự động được load mỗi khi kích hoạt môi trường ảo
 - Để hủy kích hoạt môi trường: `deactivate`
 - Đối với Windows, dùng `set` thay cho `export` trong file activate
+## Lời cảm ơn
+Xin gửi lời cảm ơn chân thành đến nhà phát triển dự án [vnquant](https://github.com/phamdinhkhanh/vnquant). Dự án đã cung cấp một nguồn tài liệu và công cụ hữu ích, giúp tôi rất nhiều trong việc phân tích và xử lý dữ liệu tài chính. Sự đóng góp của các bạn là vô cùng quý báu và đáng trân trọng.
+
 
