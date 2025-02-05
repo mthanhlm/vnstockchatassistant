@@ -63,4 +63,4 @@ chmod +x run.sh
 - API keys sẽ tự động được load mỗi khi kích hoạt môi trường ảo
 - Để hủy kích hoạt môi trường: `deactivate`
 - Đối với Windows, dùng `set` thay cho `export` trong file activate
-```
+
